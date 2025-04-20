@@ -7,6 +7,28 @@ project(my_package)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
+# Add message_generation here:
+find_package(catkin REQUIRED COMPONENTS
+  std_msgs
+  message_generation  # Add this
+)
+
+# Declare your message file:
+add_message_files(
+  FILES
+  bot_pose.msg  # Add this
+)
+
+# Generate messages:
+generate_messages(
+  DEPENDENCIES
+  std_msgs
+)
+
+# Add message_runtime here:
+catkin_package(
+  CATKIN_DEPENDS message_runtime std_msgs  # Add message_runtime
+)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy

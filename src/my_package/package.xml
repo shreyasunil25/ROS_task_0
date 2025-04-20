@@ -9,6 +9,8 @@
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
   <maintainer email="ros2@todo.todo">ros2</maintainer>
 
+<build_depend>message_generation</build_depend>
+<exec_depend>message_runtime</exec_depend>
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->

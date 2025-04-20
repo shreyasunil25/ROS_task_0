@@ -1,2 +1,15 @@
 # Hashes of file build rules.
+079a1e8c7017fddb5540498106eaeeb6 /home/ros2/catkin_ws/devel/include/my_package/bot_pose.h
+70a75a7e65750b0d8066597a00b00884 /home/ros2/catkin_ws/devel/lib/python3/dist-packages/my_package/msg/__init__.py
+86154228c19d1f9903c89b0a733e9e84 /home/ros2/catkin_ws/devel/lib/python3/dist-packages/my_package/msg/_bot_pose.py
+f688726b0b9b5398faa021a0fad01a18 /home/ros2/catkin_ws/devel/share/common-lisp/ros/my_package/msg/bot_pose.lisp
+890147f0e8f8c50b72ffe2b081d92cde /home/ros2/catkin_ws/devel/share/gennodejs/ros/my_package/msg/bot_pose.js
+1c6da33d3a9028ae7ca3a309e84b1ec5 /home/ros2/catkin_ws/devel/share/roseus/ros/my_package/manifest.l
+6a04043fdb3d7731b687d87e356e9369 /home/ros2/catkin_ws/devel/share/roseus/ros/my_package/msg/bot_pose.l
 1e80f5c0abf784fd0c1d6beb4f963334 CMakeFiles/clean_test_results
+ea94cbd0ae1490fe96829cfc6ee10a00 my_package/CMakeFiles/_my_package_generate_messages_check_deps_bot_pose
+d94dfd005d0b5f3b48b87022e3d49530 my_package/CMakeFiles/my_package_generate_messages_cpp
+d94dfd005d0b5f3b48b87022e3d49530 my_package/CMakeFiles/my_package_generate_messages_eus
+d94dfd005d0b5f3b48b87022e3d49530 my_package/CMakeFiles/my_package_generate_messages_lisp
+d94dfd005d0b5f3b48b87022e3d49530 my_package/CMakeFiles/my_package_generate_messages_nodejs
+d94dfd005d0b5f3b48b87022e3d49530 my_package/CMakeFiles/my_package_generate_messages_py
